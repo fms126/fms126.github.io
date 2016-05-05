@@ -1,0 +1,13 @@
+{"file":"egret-group.png","frames":{
+"EgretVS":{"x":1,"y":1,"w":120,"h":120,"offX":0,"offY":0,"sourceW":120,"sourceH":120},
+"EgretWing":{"x":1,"y":123,"w":120,"h":120,"offX":0,"offY":0,"sourceW":120,"sourceH":120},
+"TextureMerger":{"x":1,"y":245,"w":120,"h":120,"offX":0,"offY":0,"sourceW":120,"sourceH":120},
+"TSConversion":{"x":1,"y":367,"w":120,"h":120,"offX":0,"offY":0,"sourceW":120,"sourceH":120},
+"EgretAndroid":{"x":123,"y":1,"w":120,"h":120,"offX":0,"offY":0,"sourceW":120,"sourceH":120},
+"EgretDragonBones":{"x":245,"y":1,"w":120,"h":120,"offX":0,"offY":0,"sourceW":120,"sourceH":120},
+"EgretEngine":{"x":367,"y":1,"w":120,"h":120,"offX":0,"offY":0,"sourceW":120,"sourceH":120},
+"EgretFeather":{"x":123,"y":123,"w":120,"h":120,"offX":0,"offY":0,"sourceW":120,"sourceH":120},
+"EgretInspector":{"x":123,"y":245,"w":120,"h":120,"offX":0,"offY":0,"sourceW":120,"sourceH":120},
+"EgretiOSsupport":{"x":123,"y":367,"w":120,"h":120,"offX":0,"offY":0,"sourceW":120,"sourceH":120},
+"EgretLark":{"x":245,"y":123,"w":120,"h":120,"offX":0,"offY":0,"sourceW":120,"sourceH":120},
+"EgretRuntime":{"x":367,"y":123,"w":120,"h":120,"offX":0,"offY":0,"sourceW":120,"sourceH":120}}}

@@ -1,0 +1,9 @@
+{
+	  "launch-title" : "万圣节小游戏-找杨幂送大奖"
+	, "launch-desc" : "北影校花李依伊跟师姐杨幂长的太像了！找出杨幂就有万圣节礼物送！"
+	, "result-title" : "万圣节小游戏-找杨幂送大奖"
+	, "result-desc" : "我在60秒内找出了$1次杨幂！次数越多奖品越多！"
+	, "crosslink" : "../film-publ-a/"
+    , "countdown": "60"
+    , "level-ladder": "1,2,5,11,17,25"
+}

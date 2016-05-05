@@ -1,0 +1,14 @@
+{
+"resources":
+	[
+		{"name":"egretIcon","type":"image","url":"assets/egret_icon.png"}
+		,{"name":"egret-group","type":"sheet","url":"assets/egret-group.json"}
+        ,{"name":"dynamic-config","type":"json","url":"config/dynamic.json"}
+	],
+
+"groups":
+	[
+         {"name":"game-assets","keys":"egret-group,egretIcon" }
+        ,{"name":"loading","keys":"dynamic-config"}
+	]
+}
